@@ -1,0 +1,18 @@
+.wrapper{
+  width: 1200px;
+  margin: 20px auto;
+  overflow: hidden;
+}
+.images{
+  display: flex;
+  transition: all 0.5s;
+}
+.buttons{
+  text-align: center;
+}
+.buttons > button{
+  border-radius: 5px;
+  padding: 5px;
+  margin: 0px 3px;
+}
+
